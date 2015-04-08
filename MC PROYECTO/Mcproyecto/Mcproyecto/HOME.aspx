@@ -10,32 +10,6 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
-    
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <asp:Label ID="Label1" runat="server" Text="AGUS"></asp:Label>
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <cc1:BarChart ID="BarChart1" runat="server" Height="434px">
-        </cc1:BarChart>
-    
-    </div>
     </form>
 </body>
 </html>
