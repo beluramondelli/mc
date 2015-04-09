@@ -3,3 +3,8 @@ C:\Users\Agustina\Documents\Visual Studio 2010\Projects\Mcproyecto\Mcproyecto\bi
 C:\Users\Agustina\Documents\Visual Studio 2010\Projects\Mcproyecto\Mcproyecto\obj\Debug\Mcproyecto.dll
 C:\Users\Agustina\Documents\Visual Studio 2010\Projects\Mcproyecto\Mcproyecto\obj\Debug\Mcproyecto.pdb
 C:\Users\Agustina\Documents\Visual Studio 2010\Projects\Mcproyecto\Mcproyecto\obj\Debug\Mcproyecto.csprojResolveAssemblyReference.cache
+C:\Users\Vale\Documents\GitHub\MC\mc\MC PROYECTO\Mcproyecto\Mcproyecto\bin\Mcproyecto.dll
+C:\Users\Vale\Documents\GitHub\MC\mc\MC PROYECTO\Mcproyecto\Mcproyecto\bin\Mcproyecto.pdb
+C:\Users\Vale\Documents\GitHub\MC\mc\MC PROYECTO\Mcproyecto\Mcproyecto\obj\Debug\Mcproyecto.csprojResolveAssemblyReference.cache
+C:\Users\Vale\Documents\GitHub\MC\mc\MC PROYECTO\Mcproyecto\Mcproyecto\obj\Debug\Mcproyecto.dll
+C:\Users\Vale\Documents\GitHub\MC\mc\MC PROYECTO\Mcproyecto\Mcproyecto\obj\Debug\Mcproyecto.pdb
