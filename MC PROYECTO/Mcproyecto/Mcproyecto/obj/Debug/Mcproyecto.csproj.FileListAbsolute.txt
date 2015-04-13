@@ -13,3 +13,8 @@ C:\Users\Usuario\Documents\GitHub\MC Donalds\mc\MC PROYECTO\Mcproyecto\Mcproyect
 C:\Users\Usuario\Documents\GitHub\MC Donalds\mc\MC PROYECTO\Mcproyecto\Mcproyecto\obj\Debug\Mcproyecto.csprojResolveAssemblyReference.cache
 C:\Users\Usuario\Documents\GitHub\MC Donalds\mc\MC PROYECTO\Mcproyecto\Mcproyecto\obj\Debug\Mcproyecto.dll
 C:\Users\Usuario\Documents\GitHub\MC Donalds\mc\MC PROYECTO\Mcproyecto\Mcproyecto\obj\Debug\Mcproyecto.pdb
+C:\Users\Vale\Documents\GitHub\MC Donalds\mc\MC PROYECTO\Mcproyecto\Mcproyecto\bin\Mcproyecto.dll
+C:\Users\Vale\Documents\GitHub\MC Donalds\mc\MC PROYECTO\Mcproyecto\Mcproyecto\bin\Mcproyecto.pdb
+C:\Users\Vale\Documents\GitHub\MC Donalds\mc\MC PROYECTO\Mcproyecto\Mcproyecto\obj\Debug\Mcproyecto.csprojResolveAssemblyReference.cache
+C:\Users\Vale\Documents\GitHub\MC Donalds\mc\MC PROYECTO\Mcproyecto\Mcproyecto\obj\Debug\Mcproyecto.dll
+C:\Users\Vale\Documents\GitHub\MC Donalds\mc\MC PROYECTO\Mcproyecto\Mcproyecto\obj\Debug\Mcproyecto.pdb

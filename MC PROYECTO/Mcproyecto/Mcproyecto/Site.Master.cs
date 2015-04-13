@@ -11,7 +11,7 @@ namespace Mcproyecto
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            FechaYhoratxt.Text = DateTime.Now.ToString();
         }
     }
 }
