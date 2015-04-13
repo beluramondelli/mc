@@ -81,6 +81,7 @@
     <Content Include="imagenes\9.jpg" />
     <Content Include="imagenes\Imlovinit.jpg" />
     <Content Include="mapa.aspx" />
+    <Content Include="pricipal.aspx" />
     <Content Include="Styles\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
@@ -94,6 +95,7 @@
     <Content Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
+    <Content Include="pedido.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="About.aspx.cs">
@@ -155,6 +157,13 @@
     <Compile Include="mapa.aspx.designer.cs">
       <DependentUpon>mapa.aspx</DependentUpon>
     </Compile>
+    <Compile Include="pricipal.aspx.cs">
+      <DependentUpon>pricipal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pricipal.aspx.designer.cs">
+      <DependentUpon>pricipal.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
@@ -162,6 +171,13 @@
     </Compile>
     <Compile Include="Site.Master.designer.cs">
       <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="pedido.aspx.cs">
+      <DependentUpon>pedido.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pedido.aspx.designer.cs">
+      <DependentUpon>pedido.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
