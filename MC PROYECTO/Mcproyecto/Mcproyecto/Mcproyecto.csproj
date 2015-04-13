@@ -80,6 +80,7 @@
     <Content Include="imagenes\8.jpg" />
     <Content Include="imagenes\9.jpg" />
     <Content Include="imagenes\Imlovinit.jpg" />
+    <Content Include="imagenes\UBICACION.jpg" />
     <Content Include="mapa.aspx" />
     <Content Include="pricipal.aspx" />
     <Content Include="Styles\Site.css" />
