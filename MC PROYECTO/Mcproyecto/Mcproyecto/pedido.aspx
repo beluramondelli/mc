@@ -15,14 +15,33 @@
         }
         .style4
         {
-            width: 43px;
+            width: 74px;
+        }
+        .style5
+        {
+            width: 161px;
+            height: 21px;
+        }
+        .style6
+        {
+            width: 268px;
+            height: 21px;
+        }
+        .style7
+        {
+            height: 21px;
+        }
+        .style8
+        {
+            width: 74px;
+            height: 21px;
         }
     </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <table class="style1">
         <tr>
-            <td class="style3">
+            <td class="style3" style="font-size: large">
                 POLLO</td>
             <td class="style2">
                 &nbsp;</td>
@@ -44,7 +63,8 @@
                 <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button1" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button1" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -58,7 +78,8 @@
                 <asp:Label ID="Label2" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button2" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button2" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -72,7 +93,8 @@
                 <asp:Label ID="Label3" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button3" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button3" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -87,19 +109,20 @@
                 <asp:Label ID="Label4" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button4" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button4" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
-            <td class="style3">
+            <td class="style5" style="font-size: large">
                 CARNE</td>
-            <td class="style2">
-                &nbsp;</td>
-            <td>
-                &nbsp;</td>
-            <td class="style4">
-                &nbsp;</td>
-            <td>
+            <td class="style6">
+                </td>
+            <td class="style7">
+                </td>
+            <td class="style8">
+                </td>
+            <td class="style7">
                 &nbsp;</td>
         </tr>
         <tr>
@@ -113,7 +136,8 @@
                 <asp:Label ID="Label5" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button5" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button5" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -128,7 +152,8 @@
                 <asp:Label ID="Label6" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button6" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button6" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -143,7 +168,8 @@
                 <asp:Label ID="Label7" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button7" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button7" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -158,7 +184,8 @@
                 <asp:Label ID="Label8" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button8" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button8" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -172,7 +199,8 @@
                 <asp:Label ID="Label9" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button9" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button9" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -186,7 +214,8 @@
                 <asp:Label ID="Label10" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button10" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button10" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -200,7 +229,8 @@
                 <asp:Label ID="Label11" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button11" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button11" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -214,7 +244,8 @@
                 <asp:Label ID="Label12" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button12" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button12" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -228,7 +259,8 @@
                 <asp:Label ID="Label13" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button13" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button13" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -242,7 +274,8 @@
                 <asp:Label ID="Label14" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button14" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button14" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -256,7 +289,8 @@
                 <asp:Label ID="Label15" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button15" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button15" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -270,11 +304,12 @@
                 <asp:Label ID="Label16" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button16" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button16" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
-            <td class="style3">
+            <td class="style3" style="font-size: large">
                 MCWrap</td>
             <td class="style2">
                 &nbsp;</td>
@@ -296,7 +331,8 @@
                 <asp:Label ID="Label17" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button17" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button17" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -310,12 +346,13 @@
                 <asp:Label ID="Label18" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button18" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button18" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
-            <td class="style3">
-                PAPAS Y COMPLEMENTOS</td>
+            <td class="style3" style="font-size: large">
+                GUARNICION</td>
             <td class="style2">
                 &nbsp;</td>
             <td>
@@ -336,7 +373,8 @@
                 <asp:Label ID="Label19" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button19" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button19" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -350,11 +388,12 @@
                 <asp:Label ID="Label20" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button20" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button20" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
-            <td class="style3">
+            <td class="style3" style="font-size: large">
                 BEBIDAS</td>
             <td class="style2">
                 &nbsp;</td>
@@ -376,7 +415,8 @@
                 <asp:Label ID="Label21" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button21" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button21" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -390,7 +430,8 @@
                 <asp:Label ID="Label22" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button22" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button22" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -404,7 +445,8 @@
                 <asp:Label ID="Label23" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button23" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button23" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -418,7 +460,8 @@
                 <asp:Label ID="Label24" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button24" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button25" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -432,7 +475,8 @@
                 <asp:Label ID="Label25" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button25" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button24" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -446,11 +490,12 @@
                 <asp:Label ID="Label26" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button26" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button26" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
-            <td class="style3">
+            <td class="style3" style="font-size: large">
                 COMBOS</td>
             <td class="style2">
                 &nbsp;</td>
@@ -472,7 +517,8 @@
                 <asp:Label ID="Label27" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button27" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button27" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -486,7 +532,8 @@
                 <asp:Label ID="Label28" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button28" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button28" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -500,7 +547,8 @@
                 <asp:Label ID="Label29" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button29" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button29" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -514,7 +562,8 @@
                 <asp:Label ID="Label30" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button30" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button30" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -528,7 +577,8 @@
                 <asp:Label ID="Label31" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button31" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button31" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -542,7 +592,8 @@
                 <asp:Label ID="Label32" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button32" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button32" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -556,7 +607,8 @@
                 <asp:Label ID="Label33" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button33" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button33" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -570,7 +622,8 @@
                 <asp:Label ID="Label34" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button34" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button34" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -584,7 +637,8 @@
                 <asp:Label ID="Label35" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button35" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button35" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -598,7 +652,8 @@
                 <asp:Label ID="Label36" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button36" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button36" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -612,7 +667,8 @@
                 <asp:Label ID="Label37" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button37" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button37" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -626,7 +682,8 @@
                 <asp:Label ID="Label38" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button38" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button38" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -640,7 +697,8 @@
                 <asp:Label ID="Label39" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button39" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button39" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -654,7 +712,8 @@
                 <asp:Label ID="Label40" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button40" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button40" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -668,7 +727,8 @@
                 <asp:Label ID="Label41" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button41" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button41" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -682,7 +742,8 @@
                 <asp:Label ID="Label42" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button42" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button42" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
         <tr>
@@ -696,7 +757,8 @@
                 <asp:Label ID="Label43" runat="server" Text="Label"></asp:Label>
             </td>
             <td>
-                <asp:Button ID="Button43" runat="server" Text="AGREGAR" />
+                <asp:Button ID="Button43" runat="server" BackColor="#CC0000" Font-Bold="True" 
+                    ForeColor="White" Text="AGREGAR" />
             </td>
         </tr>
     </table>

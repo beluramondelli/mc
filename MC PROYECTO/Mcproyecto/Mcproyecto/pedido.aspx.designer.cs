@@ -436,13 +436,13 @@ namespace Mcproyecto {
         protected global::System.Web.UI.WebControls.Label Label24;
         
         /// <summary>
-        /// Control Button24.
+        /// Control Button25.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button24;
+        protected global::System.Web.UI.WebControls.Button Button25;
         
         /// <summary>
         /// Control Label25.
@@ -454,13 +454,13 @@ namespace Mcproyecto {
         protected global::System.Web.UI.WebControls.Label Label25;
         
         /// <summary>
-        /// Control Button25.
+        /// Control Button24.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button25;
+        protected global::System.Web.UI.WebControls.Button Button24;
         
         /// <summary>
         /// Control Label26.
