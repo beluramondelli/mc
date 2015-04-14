@@ -1,0 +1,4 @@
+C:\Users\Usuario\Desktop\MCDonald\MCDonald\bin\MCDonald.dll
+C:\Users\Usuario\Desktop\MCDonald\MCDonald\bin\MCDonald.pdb
+C:\Users\Usuario\Desktop\MCDonald\MCDonald\obj\Debug\MCDonald.dll
+C:\Users\Usuario\Desktop\MCDonald\MCDonald\obj\Debug\MCDonald.pdb
