@@ -2,3 +2,7 @@ C:\Users\Usuario\Desktop\MCDonald\MCDonald\bin\MCDonald.dll
 C:\Users\Usuario\Desktop\MCDonald\MCDonald\bin\MCDonald.pdb
 C:\Users\Usuario\Desktop\MCDonald\MCDonald\obj\Debug\MCDonald.dll
 C:\Users\Usuario\Desktop\MCDonald\MCDonald\obj\Debug\MCDonald.pdb
+C:\Users\Usuario\Documents\GitHub\MC MC\mc\MCDonald\MCDonald\bin\MCDonald.dll
+C:\Users\Usuario\Documents\GitHub\MC MC\mc\MCDonald\MCDonald\bin\MCDonald.pdb
+C:\Users\Usuario\Documents\GitHub\MC MC\mc\MCDonald\MCDonald\obj\Debug\MCDonald.dll
+C:\Users\Usuario\Documents\GitHub\MC MC\mc\MCDonald\MCDonald\obj\Debug\MCDonald.pdb
