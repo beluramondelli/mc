@@ -4,6 +4,7 @@
         .style1
         {
             width: 100%;
+            margin-top: 41px;
         }
         .style2
         {
@@ -39,7 +40,7 @@
     </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
-    <table class="style1">
+    <table class="style1" align="center">
         <tr>
             <td class="style3" style="font-size: large">
                 POLLO</td>
