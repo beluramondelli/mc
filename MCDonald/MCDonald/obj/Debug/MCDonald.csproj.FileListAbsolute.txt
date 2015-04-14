@@ -6,3 +6,7 @@ C:\Users\Usuario\Documents\GitHub\MC MC\mc\MCDonald\MCDonald\bin\MCDonald.dll
 C:\Users\Usuario\Documents\GitHub\MC MC\mc\MCDonald\MCDonald\bin\MCDonald.pdb
 C:\Users\Usuario\Documents\GitHub\MC MC\mc\MCDonald\MCDonald\obj\Debug\MCDonald.dll
 C:\Users\Usuario\Documents\GitHub\MC MC\mc\MCDonald\MCDonald\obj\Debug\MCDonald.pdb
+C:\Users\Vale\Documents\GitHub\MAC 14-4\mc\MCDonald\MCDonald\bin\MCDonald.dll
+C:\Users\Vale\Documents\GitHub\MAC 14-4\mc\MCDonald\MCDonald\bin\MCDonald.pdb
+C:\Users\Vale\Documents\GitHub\MAC 14-4\mc\MCDonald\MCDonald\obj\Debug\MCDonald.dll
+C:\Users\Vale\Documents\GitHub\MAC 14-4\mc\MCDonald\MCDonald\obj\Debug\MCDonald.pdb
